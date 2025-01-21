@@ -10,9 +10,14 @@
     "file":"posts/2.md"
   },
   {
-    "title":"订阅服务器",
+    "title":"worker订阅服务器",
     "time":"2025-06-03",
     "file":"posts/3.md"
+  },
+  {
+    "title":"cf优选一边多节点服务器",
+    "time":"2025-06-03",
+    "file":"posts/7.md"
   },
   {
     "title":"好看的抖音小姐姐",
